@@ -1,4 +1,4 @@
 TicTacToe-using-PyGame
 ======================
 
-simple TicTacToe created using pygame (under development)
+simple TicTacToe game, created using pygame (under development)
